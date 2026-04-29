@@ -5,7 +5,7 @@ description: >
   matching, honest experience framing, and voice guardrails from SOUL.md.
   Reads AGENTS.md at session start to discover available CV tracks and file paths.
   Use when the user provides a job posting and wants to tailor a CV track.
-license: Proprietary
+license: MIT
 compatibility: |
   Enforced layout (paths are fixed, not configurable):
     source/identity/SOUL.md       — voice, tone, and content boundaries (required)

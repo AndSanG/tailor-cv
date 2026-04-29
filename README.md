@@ -1,6 +1,6 @@
 # tailor-cv
 
-A skill that optimizes a candidate's CV for a specific job description using ATS keyword matching, honest experience framing, and voice guardrails defined in a `SOUL.md` file.
+An AI skill designed for agentic coding assistants (like [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)) that optimizes a candidate's CV for a specific job description using ATS keyword matching, honest experience framing, and voice guardrails defined in a `SOUL.md` file.
 
 ## What it does
 
@@ -14,7 +14,7 @@ A skill that optimizes a candidate's CV for a specific job description using ATS
 ## Install
 
 ```bash
-git submodule add git@github.com:AndSanG/tailor-cv.git .agents/skills/tailor-cv
+git submodule add https://github.com/AndSanG/tailor-cv.git .agents/skills/tailor-cv
 git commit -m "add tailor-cv skill"
 ```
 
