@@ -1,6 +1,6 @@
 # tailor-cv
 
-A Claude Code skill that optimizes a candidate's CV for a specific job description using ATS keyword matching, honest experience framing, and voice guardrails defined in a `SOUL.md` file.
+A skill that optimizes a candidate's CV for a specific job description using ATS keyword matching, honest experience framing, and voice guardrails defined in a `SOUL.md` file.
 
 ## What it does
 
